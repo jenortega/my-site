@@ -15,6 +15,9 @@ In addition, I was able to style the website to my liking by picking the colors,
 the images on the top container.
 
 ## Screenshots
+![screenshot-1](./images/screenshots/my-site-1.png)
+![screenshot-2](./images/screenshots/my-site-2.png)
+![screenshot-3](./images/screenshots/my-site-3.png)
 
 ## Technologies
 * HTML5
